@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\temp\\git\\DataProcessor\\in\\sample-text-file.txt"
+    }
+  }
+}
