@@ -2,7 +2,7 @@
   "profiles": {
     "DataProcessor": {
       "commandName": "Project",
-      "commandLineArgs": "--file C:\\temp\\git\\DataProcessor\\in\\sample-text-file.txt"
+      "commandLineArgs": "--dir C:\\temp\\git\\.NET-Base-Class-Library-Path\\DataProcessor\\in TEXT"
     }
   }
 }
